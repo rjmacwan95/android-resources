@@ -25,3 +25,8 @@ https://proandroiddev.com/mvvm-architecture-viewmodel-and-livedata-part-1-604f50
 https://proandroiddev.com/mvvm-architecture-viewmodel-and-livedata-part-2-di-1a6b1f96d84b
 https://proandroiddev.com/mvvm-architecture-viewmodel-and-livedata-part-3-androidx-upgrade-980c4fdbf9d6
 https://github.com/hazems/mvvm-sample-app
+
+
+
+-------------------------------------------------------------------
+https://gist.github.com/rjmacwan95/6190bc3fae8b4b4ae7fa0db7d2508141
